@@ -1,4 +1,4 @@
-# Podoconiosis-Disability-and-Depression-Study
+# podoconiosis-disability-study
 This repository contains some research work done on the effects of lymphoedema management disability and depression related to non-filarial elephantiasis (podoconiosis)
 # Podoconiosis Morbidity Management: Effects on Disability and Depression
 
@@ -624,7 +624,7 @@ install.packages(c("lme4", "ggplot2", "dplyr", "tidyr",
            Depression - Research Materials and Code},
   year = {2024},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/yourusername/podoconiosis-disability-study}},
+  howpublished = {\url{https://github.com/nouyou/podoconiosis-disability-study}},
   note = {Research materials for manuscript in preparation}
 }
 ```
