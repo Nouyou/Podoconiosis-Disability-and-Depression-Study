@@ -67,11 +67,11 @@ Mental health, though, needs sustained engagement. The psychological benefits of
 
 I examined whether the intervention helped everyone equally or left some groups behind. The pattern was striking: the most vulnerable benefited the most.
 
-At baseline, farmers had five times higher odds of depression than people in other jobs (OR=5.01, p<0.001). Older adults had twice the odds (OR=2.06, p=0.033). These groups faced compounded disadvantages—physically demanding work, continued barefoot exposure, limited healthcare access, deep poverty.
+At baseline, farmers had five times higher odds of depression than people in other jobs (OR=5.01, p<0.001). Older adults had twice the odds (OR=2.06, p=0.033). These groups faced compounded disadvantages; physically demanding work, continued barefoot exposure, limited healthcare access, deep poverty.
 
 By 24 months, these disparities vanished. Occupation no longer predicted depression (p=0.659). Age no longer mattered (p=0.134). Everyone reached similar mental health levels.
 
-This equity effect makes morbidity management more than a clinical intervention. It is a social justice program. It does not just improve average outcomes—it lifts up those at the bottom.
+This equity effect makes morbidity management more than a clinical intervention. It is a social justice program. It does not just improve average outcomes, it lifts up those at the bottom.
 
 ---
 
