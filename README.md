@@ -624,7 +624,7 @@ install.packages(c("lme4", "ggplot2", "dplyr", "tidyr",
            Depression - Research Materials and Code},
   year = {2024},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/nouyou/podoconiosis-disability-study}},
+  howpublished = {\url{https://https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study}},
   note = {Research materials for manuscript in preparation}
 }
 ```
