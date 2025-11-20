@@ -489,7 +489,7 @@ podoconiosis-disability-study/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/podoconiosis-disability-study.git
+git clone https://[github.com/yourusername/podoconiosis-disability-study.git](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study)
 
 # Navigate to code
 cd code/primary_analysis
