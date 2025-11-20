@@ -9,7 +9,7 @@
 
 Over 41,000 people in Cameroon suffer from podoconiosis, a preventable disease that develops when barefoot farmers are exposed to volcanic clay soils. The swelling, pain, and stigma destroy lives. People lose their jobs, get abandoned by families, and many think about suicide. Despite this massive burden, only one treatment center exists in the entire country.
 
-I led a 24-month study tracking 199 patients who learned simple foot hygiene: wash daily with soap, apply petroleum jelly, elevate legs, wear shoes. The question was straightforward—does this actually work long-term? Does it help with depression? Can people return to work?
+I led a 24-month study tracking 199 patients who learned simple foot hygiene: wash daily with soap, apply petroleum jelly, elevate legs, wear shoes. The question was straightforward: does this actually work long-term? Does it help with depression? Can people return to work?
 
 The answer changed everything we thought we knew about managing this disease.
 
@@ -30,7 +30,7 @@ But here is what caught my attention: the biggest improvements were not in walki
 
 ### Depression Cut in Half
 
-At the start, 65% of participants had depression. One in five had thought about suicide. These were not just sad people—they were people who had lost hope.
+At the start, 65% of participants had depression. One in five had thought about suicide. These were not just sad people; they were people who had lost hope.
 
 By 24 months, only 31% had depression. Suicidal thoughts dropped from 22% to 10%. The median depression score fell from 6.0 to 3.0 (p<0.001).
 
@@ -51,13 +51,13 @@ When you multiply 1.3 days by 41,556 cases nationally and extend it over 24 mont
 
 ## The Unexpected Discovery
 
-I expected good hygiene compliance to produce better results. It did—but only for mental health.
+I expected good hygiene compliance to produce better results. It did but only for mental health.
 
 Patients who carefully followed washing routines, elevated their legs daily, and wore shoes consistently had depression scores 1.57 points lower than those who did not (p=0.008). But here is the surprise: their disability scores were not significantly different (p=0.408).
 
 Even patients who only partially followed instructions saw their physical symptoms improve dramatically. Some washed three times a week instead of daily. Others forgot to elevate their legs. A few could not afford proper shoes. Yet their disability still dropped by roughly 50%.
 
-This finding flips conventional program thinking. We usually push for perfect adherence, scolding patients who miss steps. But the data says something different: *some hygiene is vastly better than none*. Programs should prioritize getting basic care to more people rather than demanding perfection from a few.
+This finding flips conventional program thinking. We usually push for perfect adherence, scolding patients who miss steps. But the data says something different: *some hygiene is vastly better than none*. Programs should prioritise getting basic care to more people rather than demanding perfection from a few.
 
 Mental health, though, needs sustained engagement. The psychological benefits—feeling competent, experiencing control, receiving ongoing support—require consistent participation. You cannot develop self-efficacy from sporadic effort.
 
@@ -99,7 +99,7 @@ Now we have answers.
 
 The intervention produces a 53% sustained disability reduction and 50% depression reduction over two years. It restores 1.3 workdays per person per month. It costs 20 to 30 dollars per patient annually while generating an estimated 45 to 58 dollars in productivity gains (based on Ethiopian cost studies). The program pays for itself within 2 to 3 years through economic productivity alone, before counting healthcare savings from reduced acute attacks.
 
-This is not incremental improvement. This is transformation.
+This is not incremental improvement. This is transformation!
 
 **Immediate priorities:**
 
