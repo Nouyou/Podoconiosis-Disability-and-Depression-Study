@@ -3,6 +3,7 @@
 **Michel Ndeugue Nouyou** | University of Buea, Cameroon  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9675--2593-green.svg)](https://orcid.org/0009-0005-9675-2593) [![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+![Headline slide](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Headline%20Impact%20of%20management%20on%20disability.png)
 ---
 
 ## What This Study Is About
