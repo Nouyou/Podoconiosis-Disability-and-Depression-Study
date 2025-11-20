@@ -24,7 +24,7 @@ When patients started, most struggled with basic activities. Walking a kilometer
 
 Twenty-four months later, disability scores fell from 31.3 to 14.6 (a 53% reduction, p<0.001). Three out of ten patients reported zero disability at the one-year mark. The proportion with severe disability dropped from 67% to 29%.
 
-**[Graph 1 will go here: Disability changes over time]**
+**[Figure1 Disability changes over time](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Disability%20Severity%20with%20Treatment.png)**
 <!-- Insert: Box plot or line graph showing median WHODAS scores at baseline, 12mo, 24mo -->
 
 But here is what caught my attention: the biggest improvements were not in walking or self-care. They were in *participation* / *Social engagement* (going to church, attending markets, joining community meetings). Scores in this domain dropped 92% at 12 months. People were not just getting physically better. They were getting their lives back.
