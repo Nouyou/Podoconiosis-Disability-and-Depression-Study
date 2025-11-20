@@ -59,7 +59,7 @@ Even patients who only partially followed instructions saw their physical sympto
 
 This finding flips conventional program thinking. We usually push for perfect adherence, scolding patients who miss steps. But the data says something different: *some hygiene is vastly better than none*. Programs should prioritise getting basic care to more people rather than demanding perfection from a few.
 
-Mental health, though, needs sustained engagement. The psychological benefits—feeling competent, experiencing control, receiving ongoing support—require consistent participation. You cannot develop self-efficacy from sporadic effort.
+Mental health, though, needs sustained engagement. The psychological benefits of feeling competent, experiencing control, and receiving ongoing support require consistent participation. You cannot develop self-efficacy from sporadic effort.
 
 ---
 
