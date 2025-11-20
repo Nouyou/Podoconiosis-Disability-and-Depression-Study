@@ -41,7 +41,7 @@ The mental health improvements came from more than just physical relief. During 
 
 ### People Went Back to Work
 
-Participants lost an average of 2.6 workdays per month at baseline—days they were completely unable to farm, sell at markets, or care for their families. After treatment, this dropped to 1.3 days per month (p<0.001). They gained 1.3 productive days every single month.
+Participants lost an average of 2.6 workdays per month at baseline, days they were completely unable to farm, sell at markets, or care for their families. After treatment, this dropped to 1.3 days per month (p<0.001). They gained 1.3 productive days every single month.
 
 For subsistence farmers living on thin margins, one extra workday means the difference between food security and hunger, between affording school fees and pulling kids out of class.
 
