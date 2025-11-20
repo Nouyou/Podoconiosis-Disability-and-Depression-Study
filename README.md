@@ -26,7 +26,7 @@ Twenty-four months later, disability scores fell from 31.3 to 14.6 (a 53% reduct
 **[Graph 1 will go here: Disability changes over time]**
 <!-- Insert: Box plot or line graph showing median WHODAS scores at baseline, 12mo, 24mo -->
 
-But here is what caught my attention: the biggest improvements were not in walking or self-care. They were in *participation*—going to church, attending markets, joining community meetings. Scores in this domain dropped 92% at 12 months. People were not just getting physically better. They were getting their lives back.
+But here is what caught my attention: the biggest improvements were not in walking or self-care. They were in *participation* / *Social engagement* (going to church, attending markets, joining community meetings). Scores in this domain dropped 92% at 12 months. People were not just getting physically better. They were getting their lives back.
 
 ### Depression Cut in Half
 
