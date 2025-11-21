@@ -138,7 +138,7 @@ This is not incremental improvement. This is transformation!
 ## Key Graphs
 
 ### Graph 1: Disability Transformation Over Time
-*[Space for disability box plot or trend graph]*
+*[Disability box plot or trend graph]*
 <!-- 
 Suggested visualization:
 - X-axis: Baseline, 12 months, 24 months
@@ -147,8 +147,8 @@ Suggested visualization:
 - Annotate with p-values and percent reduction
 -->
 
-### Graph 2: Depression Severity Changes
-*[Space for depression category bar chart]*
+### Figure 2: Depression Severity Changes
+*[Depression category bar chart](Management impact on depression.png)
 <!-- 
 Suggested visualization:
 - Stacked bar chart showing proportions at each timepoint
