@@ -200,7 +200,7 @@ Suggested visualization:
 
 **Repository:**
 ```
-Ndeugue Nouyou M, Eyong EM, Njouendou AJ, Wanji S. (2024). 
+Ndeugue Nouyou M, Eyong EM, Njouendou AJ, Wanji S. et al. (2024). 
 Podoconiosis Morbidity Management: Research Materials and Code. 
 GitHub. https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study
 ```
@@ -213,15 +213,11 @@ University of Buea, Cameroon.
 ```
 
 ---
-
 ## Contact
 
 **Michel Ndeugue Nouyou**  
 📧 ndeuguemic@gmail.com  
 🔗 [ORCID: 0009-0005-9675-2593](https://orcid.org/0009-0005-9675-2593)
-
-**Principal Investigator:**  
-Prof. Samuel Wanji | swanji@yahoo.fr
 
 ---
 
