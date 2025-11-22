@@ -137,8 +137,8 @@ This is not incremental improvement. This is transformation!
 
 ## Key Graphs
 
-### Graph 1: Disability Transformation Over Time
-*[Disability box plot or trend graph]*
+### Figure 1: Disability Transformation Over Time
+*[Disability box plot or trend graph](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Disability%20Severity%20with%20Treatment.png)*
 <!-- 
 Suggested visualization:
 - X-axis: Baseline, 12 months, 24 months
