@@ -224,7 +224,7 @@ University of Buea, Cameroon.
 ## Status
 
 ✅ Data collection complete (March 2022)  
-✅ Analysis complete (October 2022)  
+✅ Analysis complete (April 2022)  
 ✅ Thesis defended (February 2023)  
 📝 Manuscript in preparation for *PLOS Neglected Tropical Diseases*
 
