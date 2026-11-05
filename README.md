@@ -11,7 +11,7 @@ Over 41,000 people in Cameroon suffer from podoconiosis, a preventable disease t
 
 I led a 24-month study tracking 199 patients who learned simple foot hygiene: wash daily with soap, apply petroleum jelly, elevate legs, wear shoes. The question was straightforward: does this actually work long-term? Does it help with depression? Can people return to work?
 
-The answer changed everything we thought we knew about managing this disease.
+The answer changed everything we thought we knew about managing lymphoedema due to podoconiosis.
 
 ---
 
