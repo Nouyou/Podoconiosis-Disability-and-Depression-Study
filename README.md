@@ -5,7 +5,8 @@
 
 ![Headline slide](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Headline%20Impact%20of%20management%20on%20disability.png)
 ---
-
+https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Management%20impact%20on%20depression.png?raw=true
+---
 ## What This Study Is About
 
 Over 41,000 people in Cameroon suffer from podoconiosis, a preventable disease that develops when barefoot farmers are exposed to volcanic clay soils. The swelling, pain, and stigma destroy lives. People lose their jobs, get abandoned by families, and many think about suicide. Despite this massive burden, only one treatment center exists in the entire country.
