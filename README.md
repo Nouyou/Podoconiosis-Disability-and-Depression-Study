@@ -1,4 +1,4 @@
-# Podoconiosis Morbidity Management: 24-Month Impact Study
+# Podoconiosis Morbidity Management: 24-Month Impact Prospective Cohort Study 
 
 **Michel Ndeugue Nouyou** | University of Buea, Cameroon  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9675--2593-green.svg)](https://orcid.org/0009-0005-9675-2593) [![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
