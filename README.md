@@ -5,8 +5,6 @@
 
 ![Headline slide](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Headline%20Impact%20of%20management%20on%20disability.png)
 ---
-https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Management%20impact%20on%20depression.png?raw=true
----
 ## What This Study Is About
 
 Over 41,000 people in Cameroon suffer from podoconiosis, a preventable disease that develops when barefoot farmers are exposed to volcanic clay soils. The swelling, pain, and stigma destroy lives. People lose their jobs, get abandoned by families, and many think about suicide. Despite this massive burden, only one treatment center exists in the entire country.
@@ -27,7 +25,7 @@ Twenty-four months later, disability scores fell from 31.3 to 14.6 (a 53% reduct
 
 **![Figure1: Disability changes over time](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Disability%20Severity%20with%20Treatment.png)**
 <!-- Insert: Box plot showing median WHODAS scores at baseline, 12mo, 24mo -->
-**![Figure2: Morbidity Management Impact on Depression](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Management%20impact%20on%20depression.png)**
+
 But here is what caught my attention: the biggest improvements were not in walking or self-care. They were in *participation* / *Social engagement* (going to church, attending markets, joining community meetings). Scores in this domain dropped 92% at 12 months. People were not just getting physically better. They were getting their lives back.
 
 ### Depression Cut in Half
