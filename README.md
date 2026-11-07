@@ -37,7 +37,7 @@ By 24 months, only 31% had depression. Suicidal thoughts dropped from 22% to 10%
 **![Figure2: Depression severity changes over treatment time](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Management%20impact%20on%20depression.png)**
 <!--  depression categories (none, mild, moderate, severe) across timepoints -->
 
-The mental health improvements came from more than just physical relief. During group sessions, patients talked about feeling control over their condition for the first time. They were not victims of a curse anymore. They were managing a disease. That shift in mindset, combined with rejoining social life, transformed mental wellbeing.
+The mental health improvements came from more than just physical relief. During group sessions, patients talked about feeling control over their condition for the first time. They were not victims of a curse anymore. They were managing a disease. That shift in mindset, combined with rejoining social life, transformed mental well-being.
 
 ### People Went Back to Work
 
