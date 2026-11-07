@@ -51,7 +51,7 @@ When you multiply 1.3 days by 41,556 cases nationally and extend it over 24 mont
 
 ## The Unexpected Discovery
 
-I expected good hygiene compliance to produce better results. It did but only for mental health.
+I expected good hygiene compliance to produce better results. It did, but only for mental health.
 
 Patients who carefully followed washing routines, elevated their legs daily, and wore shoes consistently had depression scores 1.57 points lower than those who did not (p=0.008). But here is the surprise: their disability scores were not significantly different (p=0.408).
 
@@ -67,7 +67,7 @@ Mental health, though, needs sustained engagement. The psychological benefits of
 
 I examined whether the intervention helped everyone equally or left some groups behind. The pattern was striking: the most vulnerable benefited the most.
 
-At baseline, farmers had five times higher odds of depression than people in other jobs (OR=5.01, p<0.001). Older adults had twice the odds (OR=2.06, p=0.033). These groups faced compounded disadvantages; physically demanding work, continued barefoot exposure, limited healthcare access, deep poverty.
+At baseline, farmers had five times higher odds of depression than people in other jobs (OR=5.01, p<0.001). Older adults had twice the odds (OR=2.06, p=0.033). These groups faced compounded disadvantages: physically demanding work, continued barefoot exposure, limited healthcare access, deep poverty.
 
 By 24 months, these disparities vanished. Occupation no longer predicted depression (p=0.659). Age no longer mattered (p=0.134). Everyone reached similar mental health levels.
 
@@ -79,7 +79,7 @@ This equity effect makes morbidity management more than a clinical intervention.
 
 Running this study in rural Cameroon taught me what actually works on the ground versus what looks good in protocols.
 
-**The socio-political crisis** in Anglophone regions forced us to relocate our center mid-study. Armed conflict made some villages unreachable. Patients risked their lives traveling to appointments through military checkpoints.
+**The socio-political crisis** in Anglophone regions forced us to relocate our center mid-study. Armed conflict made some villages unreachable. Patients risked their lives travelling to appointments through military checkpoints.
 
 **COVID-19 hit** during year two. We reduced visit frequency from every two months to every six months. Supply chains collapsed. Patients ran out of petroleum jelly and started using palm oil instead—less effective but better than nothing.
 
@@ -105,7 +105,7 @@ This is not incremental improvement. This is transformation!
 
 1. **Establish centers in high-burden districts**. Bafut, Batibo, Njikwa, and Ndop together account for thousands of cases. One center cannot serve everyone. Geography matters. Access matters.
 
-2. **Integrate with lymphatic filariasis programs**. The care is identical—foot washing, skin care, elevation, footwear, acute attack management. Training health workers to handle both conditions simultaneously maximizes efficiency and reduces stigma.
+2. **Integrate with lymphatic filariasis programs**. The care is identical—foot washing, skin care, elevation, footwear, acute attack management. Training health workers to handle both conditions simultaneously maximises efficiency and reduces stigma.
 
 3. **Frame this as economic policy**. Agriculture ministries should care about this. Finance ministries should care. Podoconiosis destroys agricultural productivity in farming communities. Restoring 3,553 person-years means more food produced, more tax revenue generated, less poverty transmitted to the next generation.
 
@@ -119,9 +119,9 @@ This is not incremental improvement. This is transformation!
 **Intervention:** Lymphoedema management training, supplies provided, visits at months 2, 4, 6, 12, 18, 24  
 
 **Outcomes measured:**
-- Disability: WHODAS 2.0 (12-item, WHO validated instrument)
+- Disability: WHODAS 2.0 (12-item, WHO-validated instrument)
 - Depression: PHQ-9 (screens for major depressive disorder)
-- Workdays lost: Self-reported days totally unable to work in past 30 days
+- Workdays lost: Self-reported days totally unable to work in the past 30 days
 - Compliance: Structured assessment combining self-report and objective observation
 
 **Analysis:**
@@ -139,17 +139,17 @@ This is not incremental improvement. This is transformation!
 ### Figure 1: Disability Transformation Over Time
 *[Disability box plot or trend graph](https://github.com/Nouyou/Podoconiosis-Disability-and-Depression-Study/blob/main/Disability%20Severity%20with%20Treatment.png)*
 <!-- 
-Suggested visualization:
+Suggested visualisation:
 - X-axis: Baseline, 12 months, 24 months
 - Y-axis: WHODAS 2.0 score (0-100)
 - Show median, IQR, and individual trajectories if possible
-- Annotate with p-values and percent reduction
+- Annotate with p-values and per cent reduction
 -->
 
 ### Figure 2: Depression Severity Changes
 *[Depression category bar chart](Management impact on depression.png)
 <!-- 
-Suggested visualization:
+Suggested visualisation:
 - Stacked bar chart showing proportions at each timepoint
 - Categories: None/minimal, Mild, Moderate, Moderately severe, Severe
 - Clearly show shift from 65% with depression to 31%
